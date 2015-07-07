@@ -1,10 +1,11 @@
 7-zip Cookbook
 ==============
 Installs the 7-zip tool through chocolatey package manager. This cookbook uses the chocolatey cookbook.
+This has been tested under Win7 professional along with the chocolatey and windows cookbook.
 
 Requirements
 ------------
-Runs on windows using chocolatey and boxstarter. 
+Runs on windows using chocolatey and windows. 
 
 #### packages
 - `chocolatey` - 7-zip needs chocolatey to install chocolatey packages.
